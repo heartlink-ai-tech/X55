@@ -22,4 +22,4 @@ Settings -> Pages -> Deploy from a branch -> main -> /(root)
 The site is static HTML/CSS/JS and requires no server-side runtime.
 
 Official Telegram bot: @MyMes1277_bot (https://t.me/MyMes1277_bot)
-Technical support: @X55AI (https://t.me/X55AI)
+Technical support: @X55AI (https://t.me/X55_AI)
