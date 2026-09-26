@@ -22,4 +22,13 @@ Settings -> Pages -> Deploy from a branch -> main -> /(root)
 The site is static HTML/CSS/JS and requires no server-side runtime.
 
 Official Telegram bot: @MyMes1277_bot (https://t.me/MyMes1277_bot)
-Technical support: @X55AI (https://t.me/X55_AI)
+Technical support: @X55AI (https://t.me/X55AI)
+
+Legal / Stripe pages:
+  agreement.html — Terms & Conditions
+  acceptable-use.html — Acceptable Use Policy
+  privacy.html — Privacy Policy
+  law-enforcement.html — Law Enforcement & Legal Requests Protocol
+  faq.html — FAQ / Help Center
+
+Before publication, complete the legal-entity placeholders and verify the actual production retention periods and processor/subprocessor list.
